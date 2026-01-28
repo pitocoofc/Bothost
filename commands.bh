@@ -1,0 +1,9 @@
+{comando
+  $contains["oi"]
+  $print["Olá $username! Eu sou um bot feito com a linguagem .bh"]
+}
+
+{comando
+  $contains["ping"]
+  $print["Meu ping atual é de $ping ms!"]
+}
